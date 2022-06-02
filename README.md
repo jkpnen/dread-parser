@@ -92,7 +92,7 @@ The latest version of Python 3.8.x
    pip install bs4
    pip install matplotlib
    ```
-3. Set the target folder (containing HTML-files) such as C:/HTML_FILES_FOLDER/ as an argument and
+3. Set the target folder (containing HTML-files) such as C:/DATASET/ as an argument and
    run the **main.py** to get the dread messages as **.csv** and **.xslx** files
    ```
    python3 main.py C:/HTML_FILES_FOLDER/
